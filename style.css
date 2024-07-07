@@ -62,6 +62,7 @@ top: 16px;
     background: var(--Grey-08, #141414);
     width: 37px;
     height: 21px;
+   
 }
 
 #text1 span{
@@ -74,6 +75,50 @@ top: 16px;
     line-height: 150%; /* 21px */
     cursor: pointer;
     
+}
+
+#nav-Home{
+    color: var(--Absolute-White, #FFF);
+    margin-right: 24px;
+    font-family: Urbanist;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%; /* 21px */
+    cursor: pointer;
+}
+
+#nav-Aboutus{
+    color: var(--Absolute-White, #FFF);
+    margin-right: 24px;
+    font-family: Urbanist;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%; /* 21px */
+    cursor: pointer;
+}
+
+#nav-Properties{
+    color: var(--Absolute-White, #FFF);
+    margin-right: 24px;
+    font-family: Urbanist;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%; /* 21px */
+    cursor: pointer;
+}
+
+#nav-Services{
+    color: var(--Absolute-White, #FFF);
+    margin-right: 24px;
+    font-family: Urbanist;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%; /* 21px */
+    cursor: pointer;
 }
 
 
@@ -173,6 +218,7 @@ padding: 14px 20px;
 justify-content: center;
 align-items: center;
 gap: 8px;
+cursor: pointer;
 border-radius: 8px;
 border: 1px solid var(--Grey-15, #262626);
 background: var(--Grey-08, #141414);
@@ -192,6 +238,7 @@ font-size: 14px;
 font-style: normal;
 font-weight: 500;
 line-height: 150%; /* 21px */
+cursor: pointer;
 }
 
 .textcontainer1{
@@ -1174,7 +1221,7 @@ letter-spacing: -0.108px;
 }
 
 
-@media screen {
+/* @media screen {
     
     .container3{
         padding-left: 7vw;
@@ -1182,6 +1229,7 @@ letter-spacing: -0.108px;
         }
         
         #card1-img{
+            background: url(/public/images/card-img.png) lightgray 50% / cover no-repeat;
         left: 10.5vw;
             top: 85vw;
         }
@@ -1270,4 +1318,4 @@ letter-spacing: -0.108px;
         }
         
         
-}
+} */
