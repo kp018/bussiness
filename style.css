@@ -224,6 +224,7 @@ border: 1px solid var(--Grey-15, #262626);
 background: var(--Grey-08, #141414);
 }
 
+
 #Browse{
     display: flex;
 padding: 14px 20px;
@@ -1221,7 +1222,7 @@ letter-spacing: -0.108px;
 }
 
 
-/* @media screen {
+@media screen {
     
     .container3{
         padding-left: 7vw;
@@ -1318,4 +1319,4 @@ letter-spacing: -0.108px;
         }
         
         
-} */
+}
